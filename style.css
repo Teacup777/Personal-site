@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@700&display=swap');
+
+ p {
+    font-family: 'Barlow Semi Condensed';
+    text-align: center;
+    font-size: 30px;
+    color:whitesmoke
+    
+}
+
+h1 {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    text-align: center;
+    font-size: 150px;
+    color: whitesmoke;
+}
+
+body {
+    background-image: url(./bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#Socials {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+
+
+}
+
+a:link {
+    text-decoration: none;
+    color: whitesmoke !important;
+}
+
+a:visited {
+    text-decoration: none;
+    color: whitesmoke !important;
+}
+
+a:hover {
+    text-decoration: none;
+    color: whitesmoke !important;
+}
+
+a:active {
+    text-decoration: none;
+    color: whitesmoke !important;
+}
+
+h3 {
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: whitesmoke;
+    font-size: 45px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
